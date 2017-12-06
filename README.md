@@ -18,7 +18,7 @@ I started two instances in node js at server level.
 
 ### Problem Diagram After Step One
 
-![Step 1 Issue](./images/Step-1.jpg?raw=true "Step-1 ")
+![Step 1 ](./images/Step-1.jpg?raw=true "Step-1 ")
 
 
 ## Stage 2
@@ -41,7 +41,7 @@ Problem Faced
 
 
 
-### Problem Diagram After Step One
+### Problem Diagram After Step Two
 
 ![Step 1 Issue](./images/Step-2.jpg?raw=true "Step-2 ")
 
@@ -50,6 +50,8 @@ Problem Faced
 Now we have Redis in the picture
 
 we have to use a npm module socket.io-redis
+
+Note. This required to install redis-server as well
 
 ```bash
 npm install socket.io-redis --save
