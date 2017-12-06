@@ -13,7 +13,7 @@ I started two instances in node js at server level.
 * One instance is returning 200 and other 400 for a single user due to Round Robin
 
 
-![Step 1 Issue](./images/Step-1-issue.png?raw=true "Step-1 Issue")
+![Step 1 Issue](./images/Step-1-Issue.png?raw=true "Step-1 Issue")
 
 
 ### Problem Diagram After Step One
